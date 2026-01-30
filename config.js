@@ -2,7 +2,7 @@
 const businessConfig = {
   businessName: 'Web Design Specialists Ltd.',
   domain: 'webdesignspecialists.co.uk',
-  phone: '+44 161 3452 789',
+  phone: '+447347940099',
   email: 'contact@webdesignspecialists.co.uk',
   businessHours: 'Monday - Friday, 09:30 - 18:00',
   businessAddress: {
@@ -22,3 +22,4 @@ const businessConfig = {
   },
   operatingYears: '2012-present'
 };
+
